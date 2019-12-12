@@ -1,8 +1,8 @@
 {
   "name": "jweboy-ssh-client",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "license": "MIT",
-  "main": "bin/client",
+  "lib": "lib/client.js",
   "homepage": "https://github.com/jweboy/project-starter/blob/master/README.md",
   "author": {
     "name": "jweboy",
